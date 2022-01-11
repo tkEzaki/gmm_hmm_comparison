@@ -1,4 +1,4 @@
-[Description]
+# Description
 This python package is a supplementary material to Ezaki et.al. arXiv:2001.08369.
 
 This package contains three modules:
@@ -17,7 +17,7 @@ and sample data ("sample_cov_1.txt", "sample_cov_2.txt", "sample_mean_1_2.txt", 
 For usage of each function, see the sample codes in each module.
 
 
-[Requiements]
+# Requiements
 This package assumes python 3.6 or later.
 This package requires the following packages:
 -NumPy (https://numpy.org/)
@@ -25,6 +25,6 @@ This package requires the following packages:
 -hmmlearn (https://hmmlearn.readthedocs.io/en/latest/)
 
 
-License:
+# License
 Copyright (c) 2020 Takahiro Ezaki
 Released under the MIT license
